@@ -4,4 +4,10 @@ fun main(){
     println(c1.code)
     val c2 = 'B'
     println(c2.code)
+    var cookiePolicyAccepted: Boolean = true
+    var cookiesPoliciesAccepted = true
+    val cookiesPolicyAccepted: Boolean = true
+    println(cookiePolicyAccepted)
+    println(cookiesPoliciesAccepted)
+    println(cookiesPolicyAccepted)
 }
