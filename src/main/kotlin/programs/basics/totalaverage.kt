@@ -1,4 +1,4 @@
-package programs;
+package programs.basics;
 fun main(){
     val scoreLevel1 = 79
     val scoreLevel2 = 92

@@ -1,4 +1,4 @@
-package programs
+package programs.basics
 
 fun main(){
     var multiLine = """This is 

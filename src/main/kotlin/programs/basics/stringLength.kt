@@ -1,4 +1,4 @@
-package programs
+package programs.basics
 
 fun main(){
     val myString = "Hello World!"
